@@ -18,5 +18,8 @@ Installation:
 4. pandas: version 1.1.5
 5. xlrd: version 1.2.0
 
+Execution:
+$ python main.py
+
 - Example data: https://drive.google.com/file/d/1Ugo0-SaU7_WFuClqxxXDLVtreRecTBZT/view?usp=sharing
 - Example output: https://drive.google.com/file/d/1I4zKFFikB5zW_pfwIcP_u3Lt5MCt0UBF/view?usp=sharing

@@ -1,8 +1,8 @@
 import requests
 import pandas as pd
 
-key = 'AIzaSyBiDy3cd0SXe-l-Ku4KqeLgOk85lURvgHs'
-data = pd.read_excel (r'C:\Projects\Covid19\health_all_26-Jan-2021.xlsx') 
+key = '[your google api key]'
+data = pd.read_excel (r'data_5rows.xlsx') 
 df = pd.DataFrame(data, columns= ['ชื่อ','รหัสจังหวัด'])
 
 for index, row in df.iterrows():

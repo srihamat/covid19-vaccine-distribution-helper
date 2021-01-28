@@ -3,7 +3,7 @@
 This project is initiated to identify latitude, longitude for each hospital or health care to distribute covid19 vaccine.
 Input is an excel listed of name, address of the hospital or health care, output is an excel defined latitude, longitude.
 
-Already provided output as latitude, longitude of 9815 hospital or health care to the team, who is working for distribute covid19 vaccine in Thailand. I hope some of you who read this message can use it for your contry.
+Already provided output as latitude, longitude of 27,638 hospital or health care to the team, who is working for distribute covid19 vaccine in Thailand. I hope some of you who read this message can use it for your contry.
 
 - Language: Python
 - API: Google Geocoding
